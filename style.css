@@ -1,0 +1,29 @@
+.custom-bg {
+    background: linear-gradient(109.6deg, rgb(43, 1, 91) 13.4%, rgb(122, 2, 54) 100.2%);
+    color: #c1c1c1;
+    
+  }
+
+  .text-theme {
+    background: linear-gradient(to right, #12c2e9, #f64f59, #f64f59);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.white-theme{
+    background: #fdfcfc;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.custom-border-bottom {
+    border-bottom: 0.5px solid #4c4b4b; /* Change to your desired color */
+  }
+
+.custom-border-top{
+    border-top: 0.5px solid #4c4b4b; /* Change to your desired color */
+}
+
+#Footer{
+    background: linear-gradient(179.4deg, rgb(12, 20, 69) -16.9%, rgb(71, 30, 84) 119.9%);
+}
